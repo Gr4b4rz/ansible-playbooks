@@ -1,0 +1,10 @@
+db:
+  user: widgetuser
+  password: L@4Ryz8cRUXedj
+  name: widget_staging
+  primary:
+    host: slaskie.wojewodztwo.pl
+    port: 5432
+rabbitmq:
+  host: slaskie.wojewodztwo.pl
+  port: 5672
